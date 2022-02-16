@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single" >
+
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/icon_home"></item>
+
+
+
+    <item android:id="@+id/nav_contact"
+        android:title="Contact"
+        android:icon="@drawable/icon_contacts"></item>
+    <item android:id="@+id/nav_call"
+        android:title="Emergency Number"
+        android:icon="@drawable/icon_call"></item>
+    <item android:id="@+id/nav_message"
+        android:title="Message"
+        android:icon="@drawable/icon_modify"></item>
+    <item android:id="@+id/nav_medias"
+        android:title="Shake service"
+        android:icon="@drawable/icon_medias"></item>
+    <item android:id="@+id/nav_service"
+        android:title="Fall service"
+        android:icon="@drawable/rate_us_icon"></item>
+
+</group>
+
+
+        <item android:title="Profile">
+
+       <menu>
+           <group android:checkableBehavior="single">
+               <item android:id="@+id/nav_profile"
+                   android:title="Profile"
+                   android:icon="@drawable/icon_profile"></item>
+               <item
+           android:id="@+id/nav_logout"
+           android:icon="@drawable/icon_logout"
+           android:title="LogOut">
+
+       </item>
+           </group></menu>
+        </item>
+
+    <item android:title="Autres">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/nav_share"
+                    android:title="Share"
+                    android:icon="@drawable/share_icon"></item>
+                <item
+                    android:id="@+id/nav_rateUs"
+                    android:icon="@drawable/rate_us_icon"
+                    android:title="RateUs">
+
+                </item>
+            </group></menu>
+    </item>
+</menu>

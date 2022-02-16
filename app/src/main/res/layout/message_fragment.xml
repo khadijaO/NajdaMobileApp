@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfilActivity"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start"
+    android:id="@+id/drawer_layout"
+
+
+    >
+
+
+
+
+
+
+
+    <RelativeLayout android:gravity="start|left"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".EditorActivity"
+        >
+
+
+        <EditText
+            android:id="@+id/greeting"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:layout_marginStart="59dp"
+            android:layout_marginLeft="63dp"
+            android:layout_marginTop="320dp"
+            android:layout_marginEnd="57dp"
+            android:layout_marginRight="57dp"
+            android:background="@drawable/edit_text_login_bg"
+            android:hint="@string/messageDescription"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="264dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="63dp"
+            android:layout_marginLeft="63dp"
+            android:layout_marginTop="190dp"
+            android:layout_marginEnd="66dp"
+            android:layout_marginRight="66dp"
+            android:text="@string/messageDescription"
+            android:textAlignment="center"
+            android:textColor="@color/dotActivated"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+
+            android:id="@+id/body"
+            android:layout_width="wrap_content"
+            android:layout_height="114dp"
+            android:layout_below="@+id/message"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="63dp"
+            android:layout_marginLeft="63dp"
+            android:layout_marginTop="228dp"
+            android:layout_marginEnd="51dp"
+            android:layout_marginRight="51dp"
+            android:background="@drawable/edit_text_login_bg"
+            android:hint="@string/Body"
+            android:inputType="textMultiLine"
+            android:textAlignment="center" />
+
+
+        <!--        <Button-->
+        <!--            android:id="@+id/manageEmergency"-->
+        <!--            android:layout_width="552dp"-->
+        <!--            android:layout_height="64dp"-->
+        <!--            android:layout_alignParentStart="true"-->
+        <!--            android:layout_alignParentLeft="true"-->
+        <!--            android:layout_alignParentEnd="true"-->
+        <!--            android:layout_alignParentRight="true"-->
+        <!--            android:layout_alignParentBottom="true"-->
+        <!--            android:layout_marginStart="80dp"-->
+        <!--            android:layout_marginLeft="80dp"-->
+        <!--            android:layout_marginEnd="77dp"-->
+        <!--            android:layout_marginRight="77dp"-->
+        <!--            android:layout_marginBottom="10dp"-->
+        <!--            android:background="@color/dotDisactivated"-->
+        <!--            android:text="@string/manage_emergency"-->
+        <!--            android:textColor="@color/colorWhite" />-->
+
+        <Button
+            android:id="@+id/ResetMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="231dp"
+            android:layout_marginLeft="231dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginBottom="82dp"
+            android:background="@drawable/button_login_bg"
+            android:backgroundTint="@color/redColor"
+            android:text="@string/reset" />
+
+        <Button
+            android:id="@+id/addMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="37dp"
+            android:layout_marginLeft="37dp"
+            android:layout_marginEnd="209dp"
+            android:layout_marginRight="209dp"
+            android:layout_marginBottom="80dp"
+            android:background="@drawable/button_login_bg"
+            android:text="@string/addContact" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="111dp"
+            android:layout_height="111dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="63dp"
+            android:layout_marginLeft="63dp"
+            android:layout_marginEnd="145dp"
+            android:layout_marginRight="145dp"
+            android:layout_marginBottom="600dp"
+            android:background="@drawable/contact"
+            tools:src="@tools:sample/avatars" />
+
+        <!--        android:background="@drawable/button_login_bg"-->
+
+
+
+
+    </RelativeLayout>
+    <!--    <com.google.android.material.appbar.AppBarLayout-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent">-->
+
+
+
+    <!--    </com.google.android.material.appbar.AppBarLayout>-->
+
+</androidx.drawerlayout.widget.DrawerLayout>

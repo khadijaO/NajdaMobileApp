@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.najdaapp.contact.ContactFragment_last"
+        android:label="@string/menu_home"
+        tools:layout="@layout/contact_fragment_last_fragment" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.najdaapp.contact.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+    <fragment
+        android:id="@+id/nav_message"
+        android:name="com.example.najdaapp.Message.MessageFragment"
+        android:label="@string/menu_message"
+        tools:layout="@layout/message_fragment" />
+    <fragment
+        android:id="@+id/nav_call"
+        android:name="com.example.najdaapp.emergency.EmergencyFragment"
+        android:label="@string/menu_Emergency"
+        tools:layout="@layout/emergency_fragment" />
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.najdaapp.contact.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_service"
+        android:name="com.example.najdaapp.serviceFall.FallFragment"
+        android:label="@string/menu_fall"
+        tools:layout="@layout/fall_fragment" />
+    <fragment
+        android:id="@+id/nav_shake"
+        android:name="com.example.najdaapp.serviceShake.ShakeFragment"
+        android:label="@string/menu_Shake"
+        tools:layout="@layout/shake_fragment" />
+<!--    <fragment-->
+
+<!--        android:name="com.example.najdaapp.contact.ModifyContactFragment"-->
+<!--        tools:layout="@layout/modify_contact_fragment" />-->
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.najdaapp.contact.ContactFragment_last"
+        android:label="contact"
+        tools:layout="@layout/contact_fragment_last_fragment" />
+    <fragment
+        android:id="@+id/nav_speed_message"
+        android:name="com.example.najdaapp.speedMessage.SpeedMessageFragment"
+        android:label="@string/menu_message_instant"
+        tools:layout="@layout/speed_message_fragment" />
+</navigation>

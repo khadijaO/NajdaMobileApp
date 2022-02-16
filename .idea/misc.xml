@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/activity_contact_manager.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/activity_contact_user.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/activity_main_shake.xml" value="0.31023550724637683" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/activity_message.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/activity_modify_contact.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/activity_profil.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/activity_slabe.xml" value="0.31023550724637683" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/activity_start.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/activity_user_contact.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/activity_user_emergency.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/contact_fragment_last_fragment.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/emergency_fragment.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/fall_fragment.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/fragment_emegency.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/fragment_gallery.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/fragment_home.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/message_fragment.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/shake_fragment.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/layout/speed_message_fragment.xml" value="0.31023550724637683" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/menu/activity_main_drawer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/menu/contact_user.xml" value="0.334375" />
+        <entry key="..\:/Users/UCA/Desktop/NajdaApp/najda/app/src/main/res/menu/main_menu.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/UCA/tamega/NajdaApp-master/app/src/main/res/layout/activity_message.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/UCA/tamega/NajdaApp-master/app/src/main/res/menu/main_menu.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/UCA/tamega/NajdaApp-master/app/src/main/res/mipmap-anydpi-v26/najdalogo.xml" value="0.3234375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/drawable/delete_icon.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/drawable/edit_icon.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_contact_manager.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_login.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_manage_emergency.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_modify_contact.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_profil.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_slabe.xml" value="0.1550925925925926" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_slave.xml" value="0.24444444444444444" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_slave_2.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_splash_activity.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_user_contact.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_user_emergency.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/activity_user_medias.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/header.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/item_add.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/item_email.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/item_image.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/item_info.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/login_tab_fragment.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/layout/slide_layout.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Project/NajdaApp/app/src/main/res/menu/main_menu.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/hp/Desktop/khadija/najda/app/src/main/res/drawable/icon_contacts.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/hp/Desktop/khadija/najda/app/src/main/res/layout/app_bar_contact_user.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/hp/Desktop/khadija/najda/app/src/main/res/layout/content_contact_user.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/khadija/najda/app/src/main/res/layout/emergency_fragment.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/hp/Desktop/khadija/najda/app/src/main/res/layout/fall_fragment.xml" value="0.16" />
+        <entry key="..\:/Users/hp/Desktop/khadija/najda/app/src/main/res/layout/message_fragment.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/hp/Desktop/khadija/najda/app/src/main/res/layout/shake_fragment.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/hp/Desktop/khadija/najda/app/src/main/res/menu/activity_main_drawer.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/activity_contact_user.xml" value="0.1875" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/activity_main_fall.xml" value="0.1503623188405797" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/activity_main_shake.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/activity_start.xml" value="0.1390625" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/app_bar_contact_user.xml" value="0.18" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/content_contact_user.xml" value="0.1875" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/fragment_home.xml" value="0.1875" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/header.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/nav_header_contact_user.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/layout/register_tab_fragment.xml" value="0.1503623188405797" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/menu/contact_user.xml" value="0.1875" />
+        <entry key="..\:/Users/hp/Desktop/najda Apps works/NajdaApp-master/app/src/main/res/menu/main_menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

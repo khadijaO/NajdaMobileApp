@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context=".MainActivity">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/slideViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="558dp">
+
+    </androidx.viewpager.widget.ViewPager>
+
+    <LinearLayout
+        android:id="@+id/dots"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="530dp"
+        android:orientation="horizontal"
+        android:padding="20dp"
+        android:persistentDrawingCache="all"></LinearLayout>
+<!--    <Button-->
+<!--        android:id="@+id/previous"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginRight="180dp"-->
+<!--        android:background="@android:color/transparent"-->
+<!--        android:textColor="@color/colorWhite"-->
+<!--        android:textStyle="bold"-->
+<!--        android:text="Precedent"-->
+<!--        android:visibility="invisible"/>-->
+
+<!--    <Button-->
+<!--        android:id="@+id/next"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_weight="1"-->
+<!--        android:textColor="@color/colorWhite"-->
+<!--        android:textStyle="bold"-->
+<!--        android:visibility="invisible"-->
+<!--        android:background="@android:color/transparent"-->
+<!--        android:text="Suivant" />-->
+
+
+    <Button
+
+        android:id="@+id/btn"
+        android:layout_width="552dp"
+        android:layout_height="64dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="660dp"
+        android:layout_marginRight="20dp"
+        android:background="#EBF2AB"
+        android:text="GET STARTED"
+
+        android:textStyle="bold"></Button>
+
+
+</RelativeLayout>

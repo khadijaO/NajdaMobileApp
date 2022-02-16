@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#aede11</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="dotActivated">#aede11</color>
+    <color name="dotDisactivated">#000000</color>
+    <color name="Red">#AF2F2F</color>
+
+    <color name="splash_beige">#E8DED1</color>
+    <color name="splash_green">#C4DC34</color>
+    <color name="redColor">#FFA07A </color>
+
+    <color name="backColor">#EBF2AB </color>
+
+    <color name="colorTransparentWhite">#cccccc</color>
+</resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="223dp"
+            android:layout_marginTop="40dp"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="10dp"
+            app:cardUseCompatPadding="true"
+            card_view:cardCornerRAdius="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="23dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:gravity="center"
+                    android:text="Narjis Bentouhami"
+                    android:textColor="@color/dotActivated"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="center"
+                    android:text="PID:362Hb458760"
+                    android:textColor="#5C5A5A"
+                    android:textSize="13sp"
+                    android:textStyle="normal" />
+
+                <TextView
+                    android:id="@+id/relation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="center"
+                    android:text="PID:362Hb458760"
+                    android:textColor="#5C5A5A"
+                    android:textSize="13sp"
+                    android:textStyle="normal" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#79D6D1D1" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+
+                    <Button
+                        android:id="@+id/Delete_contact"
+                        android:layout_width="2dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="30dp
+"
+                        android:layout_weight="1"
+                        android:background="@drawable/button_login_bg"
+                        android:backgroundTint="@color/redColor"
+                        android:drawableLeft="@drawable/icon_logout"
+                        android:paddingLeft="10dp"
+                        android:text="@string/delete" />
+
+                    <Button
+                        android:id="@+id/modify_contact"
+                        android:layout_width="2dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/button_login_bg"
+                        android:drawableLeft="@drawable/icon_modify"
+                        android:paddingLeft="10dp"
+                        android:text="@string/modify" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+
+    </RelativeLayout>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:layout_width="98dp"
+        android:layout_height="98dp"
+        android:layout_centerHorizontal="true"
+        android:elevation="15dp"
+        android:padding="5dp"
+        android:src="@drawable/icon_1"
+        app:shapeAppearanceOverlay="@style/Circular" />
+</RelativeLayout>

@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Najda </string>
+    <string name="title_slide1">hello</string>
+    <string name="text_slide1">Lorem ipsum dolor sit amet. Qui voluptatem rerum eos fuga aliquam et odit sequi.
+        Vel eius quas sit fuga corrupti et sint quia et minus consectetur.</string>
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_close">navigation_drawer_close</string>
+    <string name="title_slide2">hello2</string>
+    <string name="text_slide2">Lorem ipsum dolor sit amet. Qui voluptatem rerum eos fuga aliquam et odit sequi.
+        Vel eius quas sit fuga corrupti et sint quia et minus consectetur.</string>
+    <string name="title_slide3">hello3</string>
+    <string name="text_slide3">Lorem ipsum dolor sit amet. Qui voluptatem rerum eos fuga aliquam et odit sequi.
+        Vel eius quas sit fuga corrupti et sint quia et minus consectetur.</string>
+    <!--    CONTACT FORM-->
+    <string name="contact_description">Add  your favorite contacts
+    </string>
+    <string name="contact_modify_description">Modify this contact
+    </string>
+    <string name="existing_contact">Add an existing contact
+
+    </string>
+    <string name="addContact">Confirm
+    </string>
+    <string name="relation_contact_hint">RelationShip
+    </string>
+    <string name="phone_contact_hint">Phone number
+    </string>
+    <string name="name_contact_hint">Contact name
+    </string>
+    <string name="manage_contact">Check contacts
+    </string>
+
+    <string name="modify">Modify
+    </string>
+    <string name="delete">Delete
+    </string>
+    <string name="reset">Reset
+    </string>
+
+    <string name="name_phoneError">This field is required
+    </string>
+    <string name="phoneFormatError">This field Should be a valid number phone
+    </string>
+    <string name="successAlert">ADDED SUCCESSFULLY :), Want you check all emergency contacts"
+    </string>
+    <string name="failureAlert">Reset
+    </string>
+    <string-array name="relation">
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Sister</item>
+        <item>Brother</item>
+        <item>Uncle</item>
+        <item>Cousin</item>
+        <item>Friend</item>
+        <item>Teacher</item>
+        <item>Other...</item>
+    </string-array>
+    <!---    CONTACT FORM                          -->
+
+
+    <!--    EMERGENCY NUMBER                   -->
+
+    <string name="emergency_description">Add  your emergency number
+    </string>
+
+    <string name="phone_emegency_hint">Phone number
+    </string>
+    <string name="name_emergency_hint">Emergency type
+    </string>
+    <string name="manage_emergency">Check Emergency Numbers
+    </string>
+    <string name="Ambulance">Ambulance
+    </string>
+    <string name="Fire_brigade">Fire brigade
+    </string>
+    <string name="Directory_enquiries">Directory enquiries
+    </string>
+    <string name="Police">Police
+    </string>
+    <string name="Gendarmerie_Royale">Gendarmerie Royale
+    </string>
+
+    <string name="setEmergency">Set Default number
+    </string>
+
+    <!--    EMERGENCY NUMBER                   -->
+
+    <!--            Message customised             -->
+    <string name="messageDescription">Change the emergency Message
+    </string>
+    <string name="Body">set the body of your message
+    </string>
+    <string name="greeting">set the greeting expression
+    </string>
+    <string name="includeReceiverName">Want you include the receiver name?
+    </string>
+    <string name="title_activity_contact_user">ContactUser</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_Emergency">Emergency Number</string>
+    <string name="menu_contact">Gallery</string>
+    <string name="menu_message">Message</string>
+    <string name="menu_Shake">Shake</string>
+    <string name="menu_fall">Fall</string>
+    <string name="menu_message_instant">Speed message</string>
+    <string name="activate_shake">activate Shake service</string>
+    <string name="activate_fall">activate Fall service </string>
+    <string name="disactivate_shake">Inactivate Shake service</string>
+    <string name="disactivate_fall">Inactivate Fall service </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--                    -->
+
+<!--    SPEED MESSAGE-->
+    <string name="speedExpression">Send a speed emergency Message</string>
+
+</resources>
